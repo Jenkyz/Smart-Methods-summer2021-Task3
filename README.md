@@ -1,4 +1,4 @@
-# Smart Methods Summer2021 Task2
+# Smart Methods Summer2021 Task3
 
 ## Task 2 objectivs :
 
@@ -47,6 +47,22 @@ Each button will upload the diriction to the database.
 #### merging the tasks in one page.
 
 ![image](https://user-images.githubusercontent.com/79165973/124520824-47217380-ddf6-11eb-87cc-ea0738a1c796.png)
+
+## Task 3 :
+
+1- Make a IBM Watson chat bot. <br>
+2- Export data as a JSON file. <br>
+3- Merge the Chat bot with previous control panels. <br>
+
+
+### The chat bot button :
+![image](https://user-images.githubusercontent.com/79165973/127747820-620ca6e4-37d5-4dc9-b23c-3212b40043a8.png)
+
+### Open chat :
+![image](https://user-images.githubusercontent.com/79165973/127748165-8ebb3ab1-45be-40df-9521-60addad1f6cb.png)
+
+
+
 
 
 
